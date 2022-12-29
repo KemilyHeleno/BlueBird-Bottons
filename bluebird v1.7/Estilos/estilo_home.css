@@ -1,0 +1,677 @@
+body {
+    width: 1200px; /* muda a cor do site */
+    margin: 0 auto; /* remove a margem do site */
+    background-color:
+        darkseagreen;
+    
+}
+
+
+/* Divisão da área que mostrará a imagem de 350 x 300 pixels na esquerda e o texto ao lado direito, texto alinhado na esquerda e ao topo, junto com o topo da imagem.
+*/
+label{
+    position: relative;
+}
+
+   input[type="submit"]{
+  width: 20%!important;
+  cursor: pointer;  
+  background: rgb(61, 157, 179);
+  padding: 8px 5px;
+  color: #fff;
+  font-size: 20px;  
+  border: 1px solid #fff;   
+  margin-bottom: 10px;  
+  text-shadow: 0 1px 1px #333;
+  margin-left: -100px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  transition: all 0.2s linear;
+}
+ 
+/*estilo do botão submit no hover */
+input[type="submit"]:hover{
+  background: #4ab3c6;
+}
+
+input[type="reset"]{
+  width: 20%!important;
+  cursor: pointer;  
+  background: rgb(61, 157, 179);
+  padding: 8px 5px;
+  color: #fff;
+  font-size: 20px;  
+  border: 1px solid #fff;   
+  margin-bottom: 10px;  
+  text-shadow: 0 1px 1px #333;
+  margin-left: -100px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+ 
+  transition: all 0.2s linear;
+}
+ 
+input[name="comprar1"]{
+
+  margin-left: 40px;
+ 
+
+}
+
+input[name="comprar2"]{
+
+  margin-left: 50px;
+    margin-top: -51px;
+
+
+}
+
+input[name="comprar3"]{
+
+  margin-left: 40px;
+    
+
+
+}
+
+input[name="comprar4"]{
+
+  margin-left: 50px;
+    
+
+
+}
+
+input[name="comprar5"]{
+
+  margin-left: 470px;
+
+}
+
+
+/*estilo do botão submit no hover */
+input[type="reset"]:hover{
+  background: #4ab3c6;
+}
+
+
+fieldset
+{
+    background-color: lightyellow;
+  width:300px;
+  height:300px;
+
+}
+
+
+
+#formulario label.usuarioo
+{
+  position:absolute;
+  left:470px;
+  margin-right:5px;
+  top: 545px;
+}
+
+#formulario label.senhaa    
+{
+  position:absolute;
+  left:470px;
+  margin-right:5px;
+  top: 577px;
+}
+
+#formulario input.campo_usuario
+{
+  position:absolute;
+  left:570px;
+  top:550px;
+  width:225px;
+}
+#formulario input.campo_senha
+{
+  position:absolute;
+  left:570px;
+  margin-top:2px;
+  width:225px;
+    top: 580px;
+}
+
+
+
+#formulario_ input.campo_nome
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 523px;
+}
+
+#formulario_ input.campo_cpf
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 555px;
+}
+
+#formulario_ input.campo_email
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 587px;
+}
+
+#formulario_ input.campo_cemail
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 619px;
+}
+
+#formulario_ input.campo_senha
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 651px;
+}
+
+#formulario_ input.campo_csenha
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 683px;
+}
+
+#formulario_ input.campo_fone
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 715px;
+}
+
+#formulario_ input.campo_cep
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 747px;
+}
+
+#formulario_ input.campo_data
+{
+  position:absolute;
+  left:550px;
+  margin-right:5px;
+  top: 779px;
+}
+
+#formulario_ input.limpar
+{
+  position:absolute;
+  left:500px;
+  margin-right:5px;
+  top: 830px;
+}
+
+#formulario_ input.salvar
+{
+  position:absolute;
+  left:770px;
+  margin-right:5px;
+  top: 830px;
+}
+
+#formulario_ label.senha
+{
+
+  top: -2px;
+}
+
+#formulario_ label.csenha
+{
+
+  top: -6px;
+}
+
+#formulario_ label.fone
+{
+
+  top: -6px;
+}
+
+#formulario_ label.cep
+{
+
+  top: -6px;
+}
+
+#formulario_ label.data
+{
+
+  top: -6px;
+}
+
+#logo_{
+    margin-left:440px;
+}
+
+#maisca{
+    margin-top:-40px;
+    margin-left: 700px; 
+}
+
+#menosca{
+    margin-top:-220px;
+    margin-left: 604px;     
+    
+}
+
+#maiscm{
+        margin-top:-10px;
+    margin-left: 110px;
+    
+}
+
+#menoscm{
+     margin-top:-10px;
+    margin-left: 110px;   
+    
+}
+
+#maisav{
+       margin-top:-10px;
+    margin-left: 110px; 
+    
+}
+
+#menosav{
+        margin-top:-10px;
+    margin-left: 110px;
+    
+}
+
+#maisma{
+    margin-top:-10px;
+    margin-left: 1500px;
+    
+}
+
+#menosma{
+       margin-top:-95px;
+    margin-left: 1000px; 
+    
+}
+
+#maishf{
+        margin-top:-10px;
+    margin-left: 110px;
+    
+}
+
+#menoshf{
+        margin-top:-10px;
+    margin-left: 110px;
+    
+}
+
+#prcapitao{
+   margin-left: 135px;
+    margin-top: 90px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+h2{
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center; 
+}
+
+h3{
+    font-size: 25px;
+    color: red;
+}
+
+h4{
+    font-size: 28px;
+}
+
+h5{
+    font-size: 14px;
+}
+h6{
+    font-size: 16px;
+}
+
+#mae{
+    width: 1200px;
+    height: 2500px;
+    float: left;
+    background-color: #B0E0E6;
+}
+
+/* Primeira divisão para apresentar a imagem de 350 x 300 pixels
+   O float: left; é necessário para as div's se posicionarem a partir da esquerda, se não for usado as div's não se encaixam como planejado.
+*/
+
+#secundaria{
+    width: 1200px;
+    height: 980px;
+    float: left;
+    background-color: #D3D3D3;
+}
+
+/* Segunda divisão para apresentar a imagem de 850 x 310 pixels
+   O float: left; é necessário para as div's se posicionarem a partir da esquerda, se não for usado, as div's não se encaixam como planejado.
+*/
+
+#secundaria_bottons{
+    width: 1200px;
+    height: 350px;
+    float: left;
+    background-color: #D3D3D3;
+}
+
+#secundaria_video{
+    width: 1200px;
+    height: 315px;
+    float: left;
+    background-color: #D3D3D3;
+}
+
+
+
+#terciaria_video{
+    width: 600px;
+    height: 310px;
+    float: right;
+    background-color: #D3D3D3;
+}
+
+#terciaria_video1{
+    width: 600px;
+    height: 310px;
+    margin-top: -450px;
+    float: right;
+    background-color: #D3D3D3;
+}
+
+#terciaria{
+    width: 1200px;
+    height: 60px;
+    float: right;
+    background-color: #D3D3D3;
+}
+
+
+
+#imagem_principal{
+    background-color: #D3D3D3;
+    margin-top:0px;
+    margin-left: 100px;
+}
+
+#olho{
+    margin-top: 0px;
+    margin-left: 420px;
+}
+
+#bruna{
+    margin-top: -30px;
+    margin-left: 40px;
+    float: left;
+}
+
+#cesar{
+    margin-top:  30px;
+    margin-left: -150px;
+    float: left;
+}
+
+#kem{
+    margin-top: 40px;
+    margin-left: 40px;
+    float: left;
+}
+
+#lidia{
+    margin-top: -515px;
+    margin-right: 300px;
+    float: right;
+}
+
+#lidia1{
+    margin-top: -485px;
+    margin-right: 105px;
+    float: right;
+}
+
+#natan{
+    margin-top: -386px;
+    margin-right: 300px;
+    float: right;
+}
+
+#natan1{
+    margin-top: -323px;
+    margin-right: 65px;
+    float: right;
+}
+
+#paola{
+    margin-top: -214px;
+    margin-right: 300px;
+    float: right;
+}
+
+#paola1{
+    margin-top: -162px;
+    margin-right: 65px;
+    float: right;
+}
+
+
+
+p {
+    margin: 0px;
+}
+
+
+
+.menu{
+    list-style:none;
+    border:0px solid #c0c0c0;
+    float:left;
+    background-color: #B0E0E6;
+    width: 1100px;
+    height: 60px;
+}
+
+.menu li{
+    position:relative;
+    float:left;
+    border-right:0px solid #c0c0c0;
+}
+
+.menu li a{
+    color:#333; 
+    text-decoration:none; 
+    padding:0px 10px; 
+    display:block;
+    }
+
+#divBusca{
+    
+    background-color: #FFF;
+    /* Muda a cor do fundo da tela para branco */
+    
+    border:solid 1px;
+    /* Cria uma borda de um pixel */
+    
+    border-radius:15px;
+    /* Arredonda a borda em 15 pixels  */
+    
+    width:400px;
+    height: 65px;
+    /* Muda as dimensões para 300x30 */
+    
+    margin-top:-44px;
+    
+}
+
+#txtBusca{
+    float:left;
+    /* Altera a localização da caixa de texto */
+    
+    background-color:transparent;
+    /* Muda a cor do fundo para transparente */
+    
+    padding-left:5px;
+    /* Define a localização de início do texto a ser escrito dentro da barra de pesquisa */
+    
+    font-style:italic;
+    /* Estilo da fonte do texto */
+    
+    font-size:40px;
+    /* Tamanho da fonte */
+    
+    border:none;
+    /* Sem borda */
+    
+    height:64px;
+    width:317px;
+    /* Dimensões 32x260 */
+    
+
+}
+
+#perfil{
+    
+    margin-top:-40px;
+    margin-left: 10px;
+}
+#carrinho{
+    
+    margin-top:-60px;
+    margin-left: 10px;
+}
+
+#qtd{
+    margin-top: -210px;
+    margin-left: 650px;
+    height: 210px;
+}
+
+#qtd2{
+    margin-top: -20px;
+    margin-left: 440px;
+}
+
+#qtd3{
+    margin-top: -20px;
+    margin-left: 740px;
+}
+
+#qtd4{
+    margin-top: -20px;
+    margin-left: 1045px;
+}
+
+#qtd5{
+    margin-top: -30px;
+    margin-left: 570px;
+}
+
+#qtd6{
+    margin-top: -35px;
+    margin-left: 140px;
+}
+
+#qtd7{
+    margin-top: -70px;
+    margin-left: 440px;
+}
+
+#qtd8{
+    margin-top: -20px;
+    margin-left: 740px;
+}
+
+#qtd9{
+    margin-top: -20px;
+    margin-left: 1045px;
+}
+
+#qtd10{
+    margin-top: -30px;
+    margin-left: 570px;
+}
+
+
+
+
+
+#btn {
+    border:2px solid #25692A;
+    border-radius:5px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:26px;
+    padding:30px 65px;
+    color:white; /*altera a cor do texto do menu*/
+    text-decoration: none;
+    /*remove o sublinhado do texto do menu*/
+    border-color:#46A7F5;
+    background:linear-gradient(to bottom, #00BFFF 5%, #009ACD 100%);
+    box-shadow:inset 0px 1px 0px 0px #d7ecfd;
+    color:#fff;
+    text-shadow:0px 0px 0px #528009;
+}
+
+#btn:hover{
+    background:linear-gradient(to bottom, #009ACD 5%, #00BFFF 100%);
+}
+
+/* :hover - Efeito no botão quando é passado o mouse em cima. */
+
+#btn:active{
+    position: relative;
+    top:2px;
+}
+
+
+
+
+
+#btn_busca {
+    border:1px solid #000000;
+    border-radius:15px;
+    display:inline-block;
+    cursor:pointer;
+    font-weight:bold;
+    text-decoration: none;
+    margin-top:0px;
+    margin-right:0px;
+}
+
+#btn_busca:active{
+    position: relative;
+    top:2px;
+}
+
+#logo{
+
+ 
+    margin-top:5px;
+}
+
